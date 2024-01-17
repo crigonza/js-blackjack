@@ -2,9 +2,13 @@
 
 This is a simple and fun blackjack game that you can play in your browser. It is written in HTML, CSS and JavaScript.
 
+![Blackjack screenshoot](https://github.com/crigonza/js-blackjack/blob/main/blackjack.png)
+
 The game follows the standard rules of blackjack: you play against the cpu, and your goal is to get as close as possible to 21 without going over.
 
 ### To play the game:
+
+You can play [here](https://crigonza.github.io/js-blackjack/) or:
 
 * Clone this repository.
 
