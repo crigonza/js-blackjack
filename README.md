@@ -12,6 +12,8 @@ The game follows the standard rules of blackjack: you play against the cpu, and 
 
 * ```npm run dev``` to run devServer.
 
+* Open your browser at ```http://localhost:<port provided by devServer>```.
+
 You can also modify the code to customize the game to your liking.
 
 Have fun and good luck!
